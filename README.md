@@ -3,6 +3,7 @@ Explore FIMS: A SQL-based banking management system on GitHub. Optimize operatio
 
 
 Features:
+
 1.Database Schema: Explore the database schema used to organize and manage financial data efficiently.
 
 2.SQL Queries: Access a collection of SQL queries optimized for retrieving, updating, and analyzing banking data.
